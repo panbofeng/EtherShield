@@ -7,7 +7,7 @@ Using *extract_feature_set.py* for getting started.
 
 *malicious_dataset.csv* is the collected dataset for malicious Ethereum accounts used in the research.
 
-Scripts ending in *_affiliate* are used to generate stuff for affiliate detection.
+Scripts ending in *_affiliate* are used to generate stuff for affiliate account detection.
 
 --------------
 
